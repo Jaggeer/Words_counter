@@ -6,6 +6,10 @@
 
 This application is just my coursework, it counts the number of words in folders with names from 1 to 9 and outputs the result in a text field.
 
+## Documentation
+
+To run this application you need just to run main.py with latest version of python.
+
 ## Developers
 
 - [Kirill Bystrov](https://github.com/Jaggeer)
